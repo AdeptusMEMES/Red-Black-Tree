@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\algorithm\rbtree\rbtree\main.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+e:\algorithm\rbtree\rbtree\main.cpp(53): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  RBTree.vcxproj -> E:\Algorithm\RBTree\Debug\RBTree.exe
